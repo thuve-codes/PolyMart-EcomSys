@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Eco-Friendly Plastic Storage Box",
+        "price": "15.99",
+        "description": "Durable and eco-friendly plastic storage box suitable for home and office use.",
+        "rating": 4.5,
+        "images": [
+            {"image": "./images/storage-box-1.jpg"},
+            {"image": "./images/storage-box-2.jpg"}
+        ],
+        "category": "Storage Solutions",
+        "seller": "PolyMart Official",
+        "stock": 50,
+        "numReviews": 24,
+        "createAt": "2025-03-02T10:00:00Z"
+    },
+    {
+        "name": "Reusable Plastic Water Bottle",
+        "price": "8.99",
+        "description": "BPA-free reusable plastic water bottle, perfect for gym and outdoor use.",
+        "rating": 4.2,
+        "images": [
+            {"image": "./images/water-bottle-1.jpg"},
+            {"image": "./images/water-bottle-2.jpg"}
+        ],
+        "category": "Kitchen & Dining",
+        "seller": "PolyMart Official",
+        "stock": 120,
+        "numReviews": 37,
+        "createAt": "2025-03-01T15:30:00Z"
+    },
+    {
+        "name": "Plastic Garden Planters Set",
+        "price": "22.49",
+        "description": "Set of 5 premium plastic planters for indoor and outdoor plants.",
+        "rating": 4.8,
+        "images": [
+            {"image": "./images/planters-1.jpg"},
+            {"image": "./images/planters-2.jpg"}
+        ],
+        "category": "Garden Supplies",
+        "seller": "PolyMart Garden",
+        "stock": 30,
+        "numReviews": 12,
+        "createAt": "2025-02-28T12:00:00Z"
+    },
+    {
+        "name": "Plastic Food Containers Set",
+        "price": "18.99",
+        "description": "Airtight plastic food containers set, perfect for meal prep and storage.",
+        "rating": 4.6,
+        "images": [
+            {"image": "./images/food-containers-1.jpg"},
+            {"image": "./images/food-containers-2.jpg"}
+        ],
+        "category": "Kitchen & Dining",
+        "seller": "PolyMart Kitchen",
+        "stock": 80,
+        "numReviews": 45,
+        "createAt": "2025-03-02T08:15:00Z"
+    }
+]
