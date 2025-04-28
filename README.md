@@ -136,7 +136,7 @@ Inside your frontend folder:
 npm run dev
 ```
 
-> ✅ Your frontend app will start on [http://localhost:5173](http://localhost:3000)
+> ✅ Your frontend app will start on [http://localhost:3000](http://localhost:3000)
 
 ---
 
