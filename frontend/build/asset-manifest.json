@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.112c6b9f.css",
+    "main.js": "/static/js/main.81ebc2dc.js",
+    "static/media/polymart-logo.png": "/static/media/polymart-logo.27bd33d07df86b542da5.png",
+    "index.html": "/index.html",
+    "main.112c6b9f.css.map": "/static/css/main.112c6b9f.css.map",
+    "main.81ebc2dc.js.map": "/static/js/main.81ebc2dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.112c6b9f.css",
+    "static/js/main.81ebc2dc.js"
+  ]
+}
